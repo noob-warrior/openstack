@@ -16,10 +16,12 @@ This document provides a comprehensive guide on setting up **OpenStack** on an *
   - **SSH (22):** Allow access from your IP.
   - **HTTP (80, 443):** Open access for the OpenStack Horizon dashboard.
 
-(![Screenshot 2025-03-23 195914](https://github.com/user-attachments/assets/13f9ad28-60e7-49eb-a211-87a056237b48)
+(![Screenshot 2025-03-23 195914]![frpp1](https://github.com/user-attachments/assets/ee035287-cea5-421a-a276-e13e73f81335)
 
 
-(![Screenshot 2025-03-23 201119](https://github.com/user-attachments/assets/85e1def9-b4a4-4ac6-bd66-43be910b0700)
+
+(![Screenshot 2025-03-23 201119]![frpp2](https://github.com/user-attachments/assets/c659322f-9a05-4ac4-9aad-8b20c6979127)
+
 
 
 
